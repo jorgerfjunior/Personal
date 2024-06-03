@@ -1,4 +1,3 @@
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -34,6 +33,7 @@
     display: block;
      margin-top: 20%;
      padding: 20px;
+       border-radius: 50px;
   }
 
   a {
@@ -80,4 +80,4 @@
     <a href="#" class="button">motricidade</a>
     
 </body>
-</html>
+
