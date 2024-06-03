@@ -33,7 +33,7 @@
     display: block;
      margin-top: 20%;
      padding: 20px;
-       border-radius: 50px;
+       border-radius: 100px;
   }
 
   a {
