@@ -67,13 +67,9 @@
     
   }
 
-
-
-
     </style>
 
-
-    
+   
     <img src="sc.png" alt="Silvana Correia">
 
     <h1>Silvana Correia</h1>
