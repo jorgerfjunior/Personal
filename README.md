@@ -40,7 +40,7 @@ margin: -15px;
     display: block;
      margin-top: 20%;
      padding: 20px;
-      border-radius: 100px;
+      border-radius: 100%;
   }
 
  .button1 {
