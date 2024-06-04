@@ -39,7 +39,7 @@ margin: -15px;
     margin: auto;
     display: block;
      margin-top: 20%;
-     padding: 20px;
+     padding: 00px;
       border-radius: 100%;
   }
 
