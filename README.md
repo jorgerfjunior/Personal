@@ -1,10 +1,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>personaldomovimento</title>
+    <title>PersonaldoMovimento</title>
    
 </head>
 <body>
+  <h1>SILVANA CORREIA</h1>
+  <h2>Personal do Movimento</h2>
+
 
     <style>
         body {
@@ -23,8 +26,17 @@
     color: rgb(244, 242, 247);
     font-family: 'century Gothic', sans-serif;
     font-size:2rem;
-    margin: 60px;
+    margin-top: 30px;
   }
+
+  h2{
+
+text-align: center;
+color: rgb(244, 242, 247);
+font-family: 'century Gothic', sans-serif;
+font-size:1.3rem;
+margin: -15px;
+}
 
   img {
 
@@ -33,10 +45,9 @@
     display: block;
      margin-top: 20%;
      padding: 20px;
-       border-radius: 100px;
   }
 
-  a {
+ .button1 {
     
     display: flex;
     justify-content: center;
@@ -52,7 +63,8 @@
     letter-spacing: 1px;
     padding: 10px 10px;
     transition: .4s;
-    margin:40px;
+    margin:60px;
+    margin-top: 140px;
     border-radius: 12px;
    
     
@@ -60,24 +72,128 @@
 
   }
 
-  a:hover{
+  .button1:hover{
     background:  blueviolet;
     color: #fff;
     letter-spacing: 4px;
     
   }
 
+  .button2 {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height:none;
+    background: #fff;
+    color: blueviolet;
+    font-family: 'century Gothic', sans-serif;
+    font-size:1.5rem;
+    font-weight: 400;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding: 10px 10px;
+    transition: .4s;
+    margin:60px;
+    margin-top: -20px;
+    border-radius: 12px;
+   
+    
+
+
+  }
+
+  .button2:hover{
+    background:  blueviolet;
+    color: #fff;
+    letter-spacing: 4px;
+    
+  }
+
+  .button3 {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height:none;
+    background: #fff;
+    color: blueviolet;
+    font-family: 'century Gothic', sans-serif;
+    font-size:1.5rem;
+    font-weight: 400;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding: 10px 10px;
+    transition: .4s;
+    margin:60px;
+    margin-top: -20px;
+    border-radius: 12px;
+   
+    
+
+
+  }
+
+  .button3:hover{
+    background:  blueviolet;
+    color: #fff;
+    letter-spacing: 4px;
+    
+  }
+
+  
+  .button4 {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height:none;
+    background: #fff;
+    color: blueviolet;
+    font-family: 'century Gothic', sans-serif;
+    font-size:1.5rem;
+    font-weight: 400;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding: 10px 10px;
+    transition: .4s;
+    margin:60px;
+    margin-top: -20px;
+    border-radius: 12px;
+   
+    
+
+
+  }
+
+  .button4:hover{
+    background:  blueviolet;
+    color: #fff;
+    letter-spacing: 4px;
+    
+  }
+
+
+
+
+
+
     </style>
 
-   
+
+    
     <img src="sc.png" alt="Silvana Correia">
 
-    <h1>Silvana Correia</h1>
+    
 
-    <a href="#" class="button">pilates</a>
-    <a href="#" class="button">whatsapp</a>
-    <a href="#" class="button">sobre mim</a>
-    <a href="#" class="button">motricidade</a>
+    <a href="#" class="button1">pilates</a>
+    <a href="#" class="button2">psicomotricidade</a>
+    <a href="#" class="button3">sobre mim</a>
+    <a href="#" class="button4">whatsapp</a>
     
 </body>
+</html>
 
